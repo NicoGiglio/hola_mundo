@@ -1,7 +1,13 @@
 # hola_mundo
 
-Mi primer repositorio
+mi primer repositorio
 
-I love 🎹, 💻, 🍕, 🐱
+i love 🎹, 💻, 🍕, 🐱
 
-I love 🏖️, 🎥, 🍷
+i love 🏖️, 🎥, 🍷
+
+mi ultima linea en mi repositorio
+
+nueva actividad
+
+finalizado con GitHub
